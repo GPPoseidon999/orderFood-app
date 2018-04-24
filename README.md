@@ -1,8 +1,8 @@
-# pizza-app
+# orderFood-app
 
-> A Vue.js project
+> 用vue全家桶实现的简单点餐系统
 
-## Build Setup
+## 食用步骤
 
 ``` bash
 # install dependencies
